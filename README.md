@@ -30,6 +30,8 @@ Autofarming Pepper
 
 Autofarming
 
+## Support
+Dm in discord: GafuGt
 
 ## License
 mtzGT
