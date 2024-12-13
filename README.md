@@ -10,7 +10,7 @@ IF YOU WANT TO CHANGE FARMING MODE AND THE AUTO-FARMER CRASHES CLOSE THE CONSOLE
 
 ## Setup:
 
-1. Download "EazyFarm.exe" from the top of the screen  And Run It.
+1. Download "EazyFarm.exe" from the top of the screen or click "Releases" from the right  And Run It.
 
 2. Open Growtopia and press F11 to Open the Autofarmer
 
